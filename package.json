@@ -1,7 +1,12 @@
 {
 	"name": "envplat",
+	"description": "Environment Platform",
+	"keywords": [
+		"envplat",
+		"dotenv"
+	],
 	"version": "0.0.2",
-	"bin": "envplat",
+	"bin": "envp",
 	"main": "lib/index.js",
 	"license": "MIT",
 	"dependencies": {
